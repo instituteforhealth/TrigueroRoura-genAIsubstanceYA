@@ -1,0 +1,21 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# R environment variables (contains secrets)
+.Renviron
+
+# RStudio files
+.Rproj.user/
+
+# Package/build artifacts
+*.Rcheck/
+*.tar.gz
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data directory
+/data/
